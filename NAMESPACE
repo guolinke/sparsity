@@ -1,5 +1,3 @@
-export(liblinear)
-export(liblinear.new)
 export(read.svmlight)
 export(write.svmlight)
 useDynLib(sparsity,sparsity_readSvmLight)
