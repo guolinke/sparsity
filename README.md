@@ -12,3 +12,5 @@ You would take hours if not days with regular packages for such sizes!
 ```r
 devtools:::install_github("Laurae2/sparsity")
 ```
+
+Original source (felixr/sparsity) does not compile properly! Hence the reason of this repository for those who needs only the SVMLight format >_>
